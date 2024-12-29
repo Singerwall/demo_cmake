@@ -1,0 +1,13 @@
+https://zhuanlan.zhihu.com/p/664125090
+【C++】Cmake使用教程（看这一篇就够了）
+
+base :
+	tell xx.h  xx.c path   cmake 
+	
+	add_exe
+	
+	add_lib
+	
+	target_link	
+	
+use 3-4-5 as demo it's ok !!!!
